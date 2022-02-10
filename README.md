@@ -1,3 +1,1 @@
-# jus buckingham
-
-Software Engineer.
+# My Portfolio Site
